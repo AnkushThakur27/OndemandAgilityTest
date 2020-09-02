@@ -21,13 +21,6 @@ public class Main {
 		r2.printReceipt();
 		System.out.println();
 		
-		Receipt r3 = new Receipt("test3.txt");
-		
-		r3.calculateTotals();
-		
-		System.out.println("Output 3");
-		r3.printReceipt();
-		
 	}
 
 }
